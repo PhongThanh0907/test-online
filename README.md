@@ -10,15 +10,12 @@ To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
 
-   ````bash
+   ```bash
    git clone https://github.com/PhongThanh0907/test-online..git
 
-   ```bash
    cd test-online.
 
-   ```bash
    npm install
 
-   ```bash
    npm start
-   ````
+   ```
